@@ -16,6 +16,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-static/images/*
+static\images\*
 # Environment variables
 .env
