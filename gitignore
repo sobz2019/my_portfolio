@@ -1,0 +1,21 @@
+# Virtual environment
+portfolio_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+static/images/*
+# Environment variables
+.env
